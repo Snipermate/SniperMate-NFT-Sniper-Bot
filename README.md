@@ -36,5 +36,7 @@ now right click on index.html and select open with and choose any web browser in
 <img src="openindex.png">
 
 
+Have fun and injoy fill free to modify but please give me credit
+
 # SniperMate-NFT-Sniper-Bot
 
