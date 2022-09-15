@@ -18,7 +18,7 @@ then when you unzip to a location is easy for you to locate open the config.js f
 
 
 you'll need to configure the settings 
-1. putting your ETH public address leave the quotations in.
+1. putting your ETH public address
 2. put in your ETH private key to that public address
 3. if you're using a hardware wallet that does not give you easy access to your private keys you can put in your wallet seed
 4. set the marketplace you want to use by default it's set to 1 which is opensea ,2 = raribles ,3 = conbaseNFT
