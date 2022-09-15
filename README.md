@@ -1,3 +1,5 @@
+<h1>SniperMate NFT Sniper Bot</h1>
+
 This is an NFT sniper bot that is written in pure JavaScript does NOT require any js node implementation and nothing to be installed.
 Once you configure the settings in the "config.js" you simply open the index.html file in any web browser all code runs locally and he's searching in buy calls are made with web3 calls.
 This sniper bought has now scored me two boardapeyachtclubs for well under the floor price among many other collections I enjoy.
